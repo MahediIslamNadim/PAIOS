@@ -674,7 +674,7 @@ Planning
 
 Documentation Progress
 
-0%
+70%
 
 Development Progress
 
